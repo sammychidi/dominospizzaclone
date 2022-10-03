@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.tooper{
+    width: 100vw ;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+    justify-content: center;
+}
+.top{
+    background-color: hsl(256, 75%, 54%);
+    width: 102vw;
+    height: 50px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    margin: 60pt;
+    padding: 0;
+}
+#text{ 
+    margin: 0;
+    padding: 20px 50px;
+    color: white;
+    font-family: sans-serif;
+}
+.pizza{
+        padding:0 0 0 59rem;
+        margin: -32.2rem;
+}
+.food{
+    padding:0 0 0 59rem;
+    margin: 33.3rem;
+}
